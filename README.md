@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/himanshutrash/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/himanshutrash/LeetCode/tree/master/3220-odd-and-even-transactions) |
 | [3374-first-letter-capitalization-ii](https://github.com/himanshutrash/LeetCode/tree/master/3374-first-letter-capitalization-ii) |
+| [3421-find-students-who-improved](https://github.com/himanshutrash/LeetCode/tree/master/3421-find-students-who-improved) |
 ## Hash Table
 |  |
 | ------- |
