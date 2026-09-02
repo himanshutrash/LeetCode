@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-first-letter-capitalization-ii](https://github.com/himanshutrash/LeetCode/tree/master/3374-first-letter-capitalization-ii) |
 | [3421-find-students-who-improved](https://github.com/himanshutrash/LeetCode/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/himanshutrash/LeetCode/tree/master/3436-find-valid-emails) |
+| [3451-find-invalid-ip-addresses](https://github.com/himanshutrash/LeetCode/tree/master/3451-find-invalid-ip-addresses) |
 ## Hash Table
 |  |
 | ------- |
