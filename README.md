@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3554-find-category-recommendation-pairs](https://github.com/himanshutrash/LeetCode/tree/master/3554-find-category-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/himanshutrash/LeetCode/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/himanshutrash/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/himanshutrash/LeetCode/tree/master/3580-find-consistently-improving-employees) |
 ## Hash Table
 |  |
 | ------- |
